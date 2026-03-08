@@ -8,6 +8,9 @@ out/
 *.tsbuildinfo
 next-env.d.ts
 
+# ===== MCP =====
+.mcp.json
+
 # ===== Environment Variables =====
 .env
 .env.local
